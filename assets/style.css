@@ -4,7 +4,19 @@
 .img_banner{
     width: 100%;
     height: auto;
+    text-align: center
 }
 .centrar_img{
     text-align: center;
+}
+.color_footer{
+    background-color: blue;
+    color: white;
+}
+.color_not_rel{
+    background-color: khaki;
+}
+.img_rrss{
+    width: 40px;
+    height: 40px;
 }
